@@ -1,0 +1,980 @@
+2016-01-18 13:57:47.582 MyCalculator[4420:21258] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/9F1D713E-2017-496E-837E-081FBE5486C9/Library/Cookies/Cookies.binarycookies
+2016-01-18 13:57:48.130 MyCalculator[4420:21258] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 13:57:48.130 MyCalculator[4420:21258] Multi-tasking -> Device: YES, App: YES
+2016-01-18 13:57:48.143 MyCalculator[4420:21258] Unlimited access to network resources
+2016-01-18 13:57:48.146 MyCalculator[4420:21258] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 13:57:49.108 MyCalculator[4420:21258] Resetting plugins due to page load.
+2016-01-18 13:57:49.238 MyCalculator[4420:21258] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/E7DCCFC0-8CDF-4E42-A89D-9CDE647740AB/MyCalculator.app/www/index.html
+2016-01-18 14:10:10.885 MyCalculator[5277:28106] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/FD6E0596-5504-43C3-AC90-DB3BC77C2621/Library/Cookies/Cookies.binarycookies
+2016-01-18 14:10:10.970 MyCalculator[5277:28106] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 14:10:10.970 MyCalculator[5277:28106] Multi-tasking -> Device: YES, App: YES
+2016-01-18 14:10:10.971 MyCalculator[5277:28106] Unlimited access to network resources
+2016-01-18 14:10:10.973 MyCalculator[5277:28106] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 14:10:11.071 MyCalculator[5277:28106] Resetting plugins due to page load.
+2016-01-18 14:10:11.099 MyCalculator[5277:28106] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/CB103E4E-A84C-419F-A0EC-C32E0247CF44/MyCalculator.app/www/index.html
+2016-01-18 14:12:17.943 MyCalculator[5480:29131] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/43E22D90-B9AE-4F32-9F61-C8A98560F156/Library/Cookies/Cookies.binarycookies
+2016-01-18 14:12:18.028 MyCalculator[5480:29131] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 14:12:18.029 MyCalculator[5480:29131] Multi-tasking -> Device: YES, App: YES
+2016-01-18 14:12:18.030 MyCalculator[5480:29131] Unlimited access to network resources
+2016-01-18 14:12:18.032 MyCalculator[5480:29131] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 14:12:18.126 MyCalculator[5480:29131] Resetting plugins due to page load.
+2016-01-18 14:12:18.155 MyCalculator[5480:29131] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/0F1E1FC5-6567-4F1C-A5AF-F731468DB014/MyCalculator.app/www/index.html
+2016-01-18 14:15:50.670 MyCalculator[5701:30891] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/6688D00A-E678-47EC-BCCD-60362BBE2F03/Library/Cookies/Cookies.binarycookies
+2016-01-18 14:15:50.766 MyCalculator[5701:30891] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 14:15:50.766 MyCalculator[5701:30891] Multi-tasking -> Device: YES, App: YES
+2016-01-18 14:15:50.767 MyCalculator[5701:30891] Unlimited access to network resources
+2016-01-18 14:15:50.769 MyCalculator[5701:30891] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 14:15:50.865 MyCalculator[5701:30891] Resetting plugins due to page load.
+2016-01-18 14:15:50.893 MyCalculator[5701:30891] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/AFCBC28E-E83C-435A-8765-816931BB4F61/MyCalculator.app/www/index.html
+2016-01-18 14:16:29.070 MyCalculator[5791:31444] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/F97BD884-E6C7-4DCA-B56F-B913C0D71810/Library/Cookies/Cookies.binarycookies
+2016-01-18 14:16:29.156 MyCalculator[5791:31444] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 14:16:29.156 MyCalculator[5791:31444] Multi-tasking -> Device: YES, App: YES
+2016-01-18 14:16:29.157 MyCalculator[5791:31444] Unlimited access to network resources
+2016-01-18 14:16:29.159 MyCalculator[5791:31444] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 14:16:29.260 MyCalculator[5791:31444] Resetting plugins due to page load.
+2016-01-18 14:16:29.288 MyCalculator[5791:31444] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/C02E1F37-BA74-49DC-9287-5FCF9DE785F5/MyCalculator.app/www/index.html
+2016-01-18 14:17:19.161 MyCalculator[5878:32049] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/E34D5928-0E71-4B51-8C5D-626947DC3C3B/Library/Cookies/Cookies.binarycookies
+2016-01-18 14:17:19.244 MyCalculator[5878:32049] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 14:17:19.244 MyCalculator[5878:32049] Multi-tasking -> Device: YES, App: YES
+2016-01-18 14:17:19.245 MyCalculator[5878:32049] Unlimited access to network resources
+2016-01-18 14:17:19.247 MyCalculator[5878:32049] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 14:17:19.344 MyCalculator[5878:32049] Resetting plugins due to page load.
+2016-01-18 14:17:19.372 MyCalculator[5878:32049] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/E4D5EAEB-233F-4549-A35D-FC440592E0DE/MyCalculator.app/www/index.html
+2016-01-18 14:17:52.820 MyCalculator[5924:32609] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/0D7D5020-A345-44B0-8C17-68177E03FA0B/Library/Cookies/Cookies.binarycookies
+2016-01-18 14:17:52.899 MyCalculator[5924:32609] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 14:17:52.899 MyCalculator[5924:32609] Multi-tasking -> Device: YES, App: YES
+2016-01-18 14:17:52.900 MyCalculator[5924:32609] Unlimited access to network resources
+2016-01-18 14:17:52.902 MyCalculator[5924:32609] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 14:17:52.997 MyCalculator[5924:32609] Resetting plugins due to page load.
+2016-01-18 14:17:53.026 MyCalculator[5924:32609] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/C82309DF-B507-4465-B920-0F0E6B93BCE3/MyCalculator.app/www/index.html
+2016-01-18 14:18:36.213 MyCalculator[6027:33221] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/77FF1CC5-1A84-4BA4-86C8-45A5729F3F5C/Library/Cookies/Cookies.binarycookies
+2016-01-18 14:18:36.301 MyCalculator[6027:33221] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 14:18:36.301 MyCalculator[6027:33221] Multi-tasking -> Device: YES, App: YES
+2016-01-18 14:18:36.302 MyCalculator[6027:33221] Unlimited access to network resources
+2016-01-18 14:18:36.304 MyCalculator[6027:33221] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 14:18:36.400 MyCalculator[6027:33221] Resetting plugins due to page load.
+2016-01-18 14:18:36.429 MyCalculator[6027:33221] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/4513342D-125F-4C60-93FC-8A4513D84C45/MyCalculator.app/www/index.html
+2016-01-18 14:23:34.051 MyCalculator[6361:36220] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/3A2ABADF-A13E-46AD-8C7E-464D5F58BE69/Library/Cookies/Cookies.binarycookies
+2016-01-18 14:23:34.135 MyCalculator[6361:36220] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 14:23:34.135 MyCalculator[6361:36220] Multi-tasking -> Device: YES, App: YES
+2016-01-18 14:23:34.136 MyCalculator[6361:36220] Unlimited access to network resources
+2016-01-18 14:23:34.138 MyCalculator[6361:36220] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 14:23:34.235 MyCalculator[6361:36220] Resetting plugins due to page load.
+2016-01-18 14:23:34.264 MyCalculator[6361:36220] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/9BD5A670-E9A0-4112-AC92-ACE87CCE68D0/MyCalculator.app/www/index.html
+2016-01-18 14:24:43.051 MyCalculator[6470:37052] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/41E35603-4D67-4EAB-95EF-0FC92C99F2C0/Library/Cookies/Cookies.binarycookies
+2016-01-18 14:24:43.089 MyCalculator[6470:37052] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 14:24:43.089 MyCalculator[6470:37052] Multi-tasking -> Device: YES, App: YES
+2016-01-18 14:24:43.090 MyCalculator[6470:37052] Unlimited access to network resources
+2016-01-18 14:24:43.092 MyCalculator[6470:37052] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 14:24:43.177 MyCalculator[6470:37052] Resetting plugins due to page load.
+2016-01-18 14:24:43.203 MyCalculator[6470:37052] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/7B0FF6FD-57DB-47C8-B8CD-F42F68EDB8A4/MyCalculator.app/www/index.html
+2016-01-18 14:25:42.525 MyCalculator[6583:37988] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/49BD409F-70BA-4999-999D-7ACA078FE016/Library/Cookies/Cookies.binarycookies
+2016-01-18 14:25:42.620 MyCalculator[6583:37988] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 14:25:42.621 MyCalculator[6583:37988] Multi-tasking -> Device: YES, App: YES
+2016-01-18 14:25:42.622 MyCalculator[6583:37988] Unlimited access to network resources
+2016-01-18 14:25:42.624 MyCalculator[6583:37988] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 14:25:42.766 MyCalculator[6583:37988] Resetting plugins due to page load.
+2016-01-18 14:25:42.794 MyCalculator[6583:37988] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/41BA0F32-20D2-43C4-AECA-C9708EE52D35/MyCalculator.app/www/index.html
+2016-01-18 14:25:58.686 MyCalculator[6627:38425] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/D5891A36-F329-4296-981D-DE6559E80956/Library/Cookies/Cookies.binarycookies
+2016-01-18 14:25:58.773 MyCalculator[6627:38425] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 14:25:58.773 MyCalculator[6627:38425] Multi-tasking -> Device: YES, App: YES
+2016-01-18 14:25:58.774 MyCalculator[6627:38425] Unlimited access to network resources
+2016-01-18 14:25:58.776 MyCalculator[6627:38425] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 14:25:58.872 MyCalculator[6627:38425] Resetting plugins due to page load.
+2016-01-18 14:25:58.901 MyCalculator[6627:38425] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/5568EC84-38E5-4600-A957-2232B3A85DF3/MyCalculator.app/www/index.html
+2016-01-18 14:26:08.975 MyCalculator[6662:38787] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/287A95A2-71AD-418E-961C-4FC950D1B7A0/Library/Cookies/Cookies.binarycookies
+2016-01-18 14:26:09.059 MyCalculator[6662:38787] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 14:26:09.059 MyCalculator[6662:38787] Multi-tasking -> Device: YES, App: YES
+2016-01-18 14:26:09.060 MyCalculator[6662:38787] Unlimited access to network resources
+2016-01-18 14:26:09.062 MyCalculator[6662:38787] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 14:26:09.159 MyCalculator[6662:38787] Resetting plugins due to page load.
+2016-01-18 14:26:09.189 MyCalculator[6662:38787] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/AB391768-9D87-462F-BD44-C25C2A88CC63/MyCalculator.app/www/index.html
+2016-01-18 14:26:18.972 MyCalculator[6735:39133] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/EF058CC1-7FC8-47F2-94A1-00ABF47E216D/Library/Cookies/Cookies.binarycookies
+2016-01-18 14:26:19.051 MyCalculator[6735:39133] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 14:26:19.052 MyCalculator[6735:39133] Multi-tasking -> Device: YES, App: YES
+2016-01-18 14:26:19.053 MyCalculator[6735:39133] Unlimited access to network resources
+2016-01-18 14:26:19.055 MyCalculator[6735:39133] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 14:26:19.153 MyCalculator[6735:39133] Resetting plugins due to page load.
+2016-01-18 14:26:19.182 MyCalculator[6735:39133] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/310640AE-A275-4E62-9495-36DCB520699B/MyCalculator.app/www/index.html
+2016-01-18 14:27:42.262 MyCalculator[6866:40346] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/DE8B7E62-82E4-43F7-83A4-4E0FF771BF25/Library/Cookies/Cookies.binarycookies
+2016-01-18 14:27:42.351 MyCalculator[6866:40346] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 14:27:42.352 MyCalculator[6866:40346] Multi-tasking -> Device: YES, App: YES
+2016-01-18 14:27:42.353 MyCalculator[6866:40346] Unlimited access to network resources
+2016-01-18 14:27:42.355 MyCalculator[6866:40346] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 14:27:42.679 MyCalculator[6866:40346] Resetting plugins due to page load.
+2016-01-18 14:27:42.705 MyCalculator[6866:40346] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/7866D117-377D-4A66-858F-DF0D257521BE/MyCalculator.app/www/index.html
+2016-01-18 14:29:03.012 MyCalculator[6969:41378] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/EB381EF1-0DF4-4C0D-AC40-7E6C3050905D/Library/Cookies/Cookies.binarycookies
+2016-01-18 14:29:03.090 MyCalculator[6969:41378] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 14:29:03.090 MyCalculator[6969:41378] Multi-tasking -> Device: YES, App: YES
+2016-01-18 14:29:03.091 MyCalculator[6969:41378] Unlimited access to network resources
+2016-01-18 14:29:03.093 MyCalculator[6969:41378] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 14:29:03.191 MyCalculator[6969:41378] Resetting plugins due to page load.
+2016-01-18 14:29:03.220 MyCalculator[6969:41378] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/397952D2-86CB-459C-976A-FC384B9B49CB/MyCalculator.app/www/index.html
+2016-01-18 14:39:48.529 MyCalculator[7667:47916] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/C2BCEC76-F412-492D-A481-160C4C61E9EA/Library/Cookies/Cookies.binarycookies
+2016-01-18 14:39:48.621 MyCalculator[7667:47916] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 14:39:48.621 MyCalculator[7667:47916] Multi-tasking -> Device: YES, App: YES
+2016-01-18 14:39:48.622 MyCalculator[7667:47916] Unlimited access to network resources
+2016-01-18 14:39:48.624 MyCalculator[7667:47916] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 14:39:48.722 MyCalculator[7667:47916] Resetting plugins due to page load.
+2016-01-18 14:39:48.764 MyCalculator[7667:47916] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/EDC46559-6DEE-4CC6-BA68-BD897BB8F17C/MyCalculator.app/www/index.html
+2016-01-18 14:41:55.824 MyCalculator[7953:49415] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/57430A5C-7773-4B45-A7E9-B0B028A7A417/Library/Cookies/Cookies.binarycookies
+2016-01-18 14:41:55.897 MyCalculator[7953:49415] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 14:41:55.897 MyCalculator[7953:49415] Multi-tasking -> Device: YES, App: YES
+2016-01-18 14:41:55.898 MyCalculator[7953:49415] Unlimited access to network resources
+2016-01-18 14:41:55.900 MyCalculator[7953:49415] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 14:41:55.996 MyCalculator[7953:49415] Resetting plugins due to page load.
+2016-01-18 14:41:56.035 MyCalculator[7953:49415] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/EF7FDE36-42A1-4B28-A719-AB224BCA9EF4/MyCalculator.app/www/index.html
+2016-01-18 14:43:40.280 MyCalculator[8073:50268] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/205B4F9C-5E7F-48CF-ACCB-668AB08044EF/Library/Cookies/Cookies.binarycookies
+2016-01-18 14:43:40.361 MyCalculator[8073:50268] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 14:43:40.362 MyCalculator[8073:50268] Multi-tasking -> Device: YES, App: YES
+2016-01-18 14:43:40.363 MyCalculator[8073:50268] Unlimited access to network resources
+2016-01-18 14:43:40.365 MyCalculator[8073:50268] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 14:43:40.460 MyCalculator[8073:50268] Resetting plugins due to page load.
+2016-01-18 14:43:40.499 MyCalculator[8073:50268] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/5E14B42D-5ACF-49A2-83F2-DEF113EFFD0C/MyCalculator.app/www/index.html
+2016-01-18 14:45:23.889 MyCalculator[8200:51539] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/1C5F5F90-F09E-44B5-A24E-8A01E1397B74/Library/Cookies/Cookies.binarycookies
+2016-01-18 14:45:23.973 MyCalculator[8200:51539] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 14:45:23.973 MyCalculator[8200:51539] Multi-tasking -> Device: YES, App: YES
+2016-01-18 14:45:23.975 MyCalculator[8200:51539] Unlimited access to network resources
+2016-01-18 14:45:23.976 MyCalculator[8200:51539] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 14:45:24.073 MyCalculator[8200:51539] Resetting plugins due to page load.
+2016-01-18 14:45:24.112 MyCalculator[8200:51539] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/062C2F1A-E441-437B-959E-C21EA53E44D4/MyCalculator.app/www/index.html
+2016-01-18 14:46:18.561 MyCalculator[8256:52192] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/6F09A649-2433-43A2-8424-CCC279974553/Library/Cookies/Cookies.binarycookies
+2016-01-18 14:46:18.643 MyCalculator[8256:52192] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 14:46:18.643 MyCalculator[8256:52192] Multi-tasking -> Device: YES, App: YES
+2016-01-18 14:46:18.644 MyCalculator[8256:52192] Unlimited access to network resources
+2016-01-18 14:46:18.646 MyCalculator[8256:52192] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 14:46:18.743 MyCalculator[8256:52192] Resetting plugins due to page load.
+2016-01-18 14:46:18.782 MyCalculator[8256:52192] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/FED2D14C-1C59-47DC-9D17-749BFB2BF307/MyCalculator.app/www/index.html
+2016-01-18 14:47:07.746 MyCalculator[8351:52848] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/F8CAB9E3-D93A-4B65-A9B5-DDE9F345EC17/Library/Cookies/Cookies.binarycookies
+2016-01-18 14:47:07.826 MyCalculator[8351:52848] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 14:47:07.827 MyCalculator[8351:52848] Multi-tasking -> Device: YES, App: YES
+2016-01-18 14:47:07.828 MyCalculator[8351:52848] Unlimited access to network resources
+2016-01-18 14:47:07.829 MyCalculator[8351:52848] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 14:47:07.927 MyCalculator[8351:52848] Resetting plugins due to page load.
+2016-01-18 14:47:07.965 MyCalculator[8351:52848] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/6504566A-B956-419C-8CDB-F364F990B156/MyCalculator.app/www/index.html
+2016-01-18 14:47:38.734 MyCalculator[8424:53357] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/097F8E5C-F61F-4C49-9838-0E6B7CB79E3D/Library/Cookies/Cookies.binarycookies
+2016-01-18 14:47:38.806 MyCalculator[8424:53357] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 14:47:38.806 MyCalculator[8424:53357] Multi-tasking -> Device: YES, App: YES
+2016-01-18 14:47:38.808 MyCalculator[8424:53357] Unlimited access to network resources
+2016-01-18 14:47:38.810 MyCalculator[8424:53357] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 14:47:38.909 MyCalculator[8424:53357] Resetting plugins due to page load.
+2016-01-18 14:47:38.948 MyCalculator[8424:53357] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/498E3B39-23DB-421C-BD70-A3729959B21B/MyCalculator.app/www/index.html
+2016-01-18 14:48:02.445 MyCalculator[8461:53809] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/D4F72BD2-CDAE-48BC-BE50-BE8B083D1A49/Library/Cookies/Cookies.binarycookies
+2016-01-18 14:48:02.525 MyCalculator[8461:53809] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 14:48:02.526 MyCalculator[8461:53809] Multi-tasking -> Device: YES, App: YES
+2016-01-18 14:48:02.527 MyCalculator[8461:53809] Unlimited access to network resources
+2016-01-18 14:48:02.529 MyCalculator[8461:53809] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 14:48:02.627 MyCalculator[8461:53809] Resetting plugins due to page load.
+2016-01-18 14:48:02.666 MyCalculator[8461:53809] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/5D2A217C-A6BE-4FC7-9CFE-01708CA04B26/MyCalculator.app/www/index.html
+2016-01-18 14:48:11.165 MyCalculator[8491:54090] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/A38EA37E-7A9E-4A50-B460-5359397EA0D3/Library/Cookies/Cookies.binarycookies
+2016-01-18 14:48:11.303 MyCalculator[8491:54090] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 14:48:11.303 MyCalculator[8491:54090] Multi-tasking -> Device: YES, App: YES
+2016-01-18 14:48:11.304 MyCalculator[8491:54090] Unlimited access to network resources
+2016-01-18 14:48:11.307 MyCalculator[8491:54090] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 14:48:11.428 MyCalculator[8491:54090] Resetting plugins due to page load.
+2016-01-18 14:48:11.466 MyCalculator[8491:54090] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/5400C650-BD0D-4723-A4D3-CB21EE6B508F/MyCalculator.app/www/index.html
+2016-01-18 14:48:33.846 MyCalculator[8576:54592] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/B8FE122E-7335-444B-A32C-A378174AC07F/Library/Cookies/Cookies.binarycookies
+2016-01-18 14:48:33.933 MyCalculator[8576:54592] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 14:48:33.933 MyCalculator[8576:54592] Multi-tasking -> Device: YES, App: YES
+2016-01-18 14:48:33.934 MyCalculator[8576:54592] Unlimited access to network resources
+2016-01-18 14:48:33.936 MyCalculator[8576:54592] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 14:48:34.034 MyCalculator[8576:54592] Resetting plugins due to page load.
+2016-01-18 14:48:34.072 MyCalculator[8576:54592] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/52B4E67C-0722-497E-B135-42ED98E87374/MyCalculator.app/www/index.html
+2016-01-18 14:49:09.562 MyCalculator[8613:55176] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/F4446611-03B8-466E-82C3-219EDCB8C121/Library/Cookies/Cookies.binarycookies
+2016-01-18 14:49:09.642 MyCalculator[8613:55176] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 14:49:09.643 MyCalculator[8613:55176] Multi-tasking -> Device: YES, App: YES
+2016-01-18 14:49:09.644 MyCalculator[8613:55176] Unlimited access to network resources
+2016-01-18 14:49:09.646 MyCalculator[8613:55176] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 14:49:09.743 MyCalculator[8613:55176] Resetting plugins due to page load.
+2016-01-18 14:49:09.781 MyCalculator[8613:55176] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/A78F19D3-96EA-4F9D-AF66-30F1EB76C068/MyCalculator.app/www/index.html
+2016-01-18 14:51:19.272 MyCalculator[8726:56375] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/223441AA-0D07-4B86-80D1-0EE769BC10C9/Library/Cookies/Cookies.binarycookies
+2016-01-18 14:51:19.373 MyCalculator[8726:56375] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 14:51:19.374 MyCalculator[8726:56375] Multi-tasking -> Device: YES, App: YES
+2016-01-18 14:51:19.375 MyCalculator[8726:56375] Unlimited access to network resources
+2016-01-18 14:51:19.378 MyCalculator[8726:56375] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 14:51:19.476 MyCalculator[8726:56375] Resetting plugins due to page load.
+2016-01-18 14:51:19.514 MyCalculator[8726:56375] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/A5340D07-C852-45AD-B299-7E5E5F616096/MyCalculator.app/www/index.html
+2016-01-18 14:51:49.915 MyCalculator[8807:57041] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/8C207ECB-A9DB-48D9-93EB-FDD75D8B8224/Library/Cookies/Cookies.binarycookies
+2016-01-18 14:51:50.005 MyCalculator[8807:57041] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 14:51:50.005 MyCalculator[8807:57041] Multi-tasking -> Device: YES, App: YES
+2016-01-18 14:51:50.006 MyCalculator[8807:57041] Unlimited access to network resources
+2016-01-18 14:51:50.008 MyCalculator[8807:57041] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 14:51:50.105 MyCalculator[8807:57041] Resetting plugins due to page load.
+2016-01-18 14:51:50.145 MyCalculator[8807:57041] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/538B08E0-989A-4571-A743-7BA735C7665C/MyCalculator.app/www/index.html
+2016-01-18 14:52:28.224 MyCalculator[8888:57599] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/CA5AA3A9-FBFA-4E7D-A019-D60D8C533717/Library/Cookies/Cookies.binarycookies
+2016-01-18 14:52:28.326 MyCalculator[8888:57599] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 14:52:28.326 MyCalculator[8888:57599] Multi-tasking -> Device: YES, App: YES
+2016-01-18 14:52:28.327 MyCalculator[8888:57599] Unlimited access to network resources
+2016-01-18 14:52:28.329 MyCalculator[8888:57599] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 14:52:28.428 MyCalculator[8888:57599] Resetting plugins due to page load.
+2016-01-18 14:52:28.467 MyCalculator[8888:57599] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/311E19C2-4B4E-4207-A129-2041BCA01685/MyCalculator.app/www/index.html
+2016-01-18 14:58:39.113 MyCalculator[9181:59873] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/F69C08A6-B025-4AF4-BC26-8BA5D51E2FCF/Library/Cookies/Cookies.binarycookies
+2016-01-18 14:58:39.196 MyCalculator[9181:59873] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 14:58:39.197 MyCalculator[9181:59873] Multi-tasking -> Device: YES, App: YES
+2016-01-18 14:58:39.198 MyCalculator[9181:59873] Unlimited access to network resources
+2016-01-18 14:58:39.200 MyCalculator[9181:59873] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 14:58:39.298 MyCalculator[9181:59873] Resetting plugins due to page load.
+2016-01-18 14:58:39.337 MyCalculator[9181:59873] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/A867E390-D02F-41D2-A51C-7BBFBDD6E592/MyCalculator.app/www/index.html
+2016-01-18 14:58:52.392 MyCalculator[9224:60290] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/4B718296-9C34-47D3-8847-74D7E36AF571/Library/Cookies/Cookies.binarycookies
+2016-01-18 14:58:52.479 MyCalculator[9224:60290] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 14:58:52.480 MyCalculator[9224:60290] Multi-tasking -> Device: YES, App: YES
+2016-01-18 14:58:52.481 MyCalculator[9224:60290] Unlimited access to network resources
+2016-01-18 14:58:52.483 MyCalculator[9224:60290] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 14:58:52.581 MyCalculator[9224:60290] Resetting plugins due to page load.
+2016-01-18 14:58:52.620 MyCalculator[9224:60290] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/4C585407-8CC1-4448-B556-72978D516257/MyCalculator.app/www/index.html
+2016-01-18 15:01:54.293 MyCalculator[9400:62733] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/213044A8-7DBB-40BF-BAEC-BF057F9F5549/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:01:54.371 MyCalculator[9400:62733] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:01:54.371 MyCalculator[9400:62733] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:01:54.372 MyCalculator[9400:62733] Unlimited access to network resources
+2016-01-18 15:01:54.374 MyCalculator[9400:62733] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:01:54.470 MyCalculator[9400:62733] Resetting plugins due to page load.
+2016-01-18 15:01:54.509 MyCalculator[9400:62733] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/D0A8916B-CFCB-4488-9064-339F571CF7C6/MyCalculator.app/www/index.html
+2016-01-18 15:02:33.391 MyCalculator[9485:63336] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/33C73C74-0CD1-4CB9-B4BF-1776AAF8267E/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:02:33.474 MyCalculator[9485:63336] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:02:33.474 MyCalculator[9485:63336] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:02:33.475 MyCalculator[9485:63336] Unlimited access to network resources
+2016-01-18 15:02:33.478 MyCalculator[9485:63336] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:02:33.574 MyCalculator[9485:63336] Resetting plugins due to page load.
+2016-01-18 15:02:33.613 MyCalculator[9485:63336] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/5A8D0E46-6843-4564-BD60-D2F23E72EF5B/MyCalculator.app/www/index.html
+2016-01-18 15:02:54.178 MyCalculator[9527:63821] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/168AAA28-5A7D-437C-8075-148E0165E743/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:02:54.276 MyCalculator[9527:63821] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:02:54.277 MyCalculator[9527:63821] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:02:54.278 MyCalculator[9527:63821] Unlimited access to network resources
+2016-01-18 15:02:54.280 MyCalculator[9527:63821] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:02:54.381 MyCalculator[9527:63821] Resetting plugins due to page load.
+2016-01-18 15:02:54.421 MyCalculator[9527:63821] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/4984287A-2017-41D1-8FC6-25FDEFA51267/MyCalculator.app/www/index.html
+2016-01-18 15:15:50.255 MyCalculator[10184:70311] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/BF48D84B-DFFF-438B-B868-F2ED0D0E5162/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:15:50.398 MyCalculator[10184:70311] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:15:50.398 MyCalculator[10184:70311] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:15:50.400 MyCalculator[10184:70311] Unlimited access to network resources
+2016-01-18 15:15:50.402 MyCalculator[10184:70311] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:15:50.516 MyCalculator[10184:70311] Resetting plugins due to page load.
+2016-01-18 15:15:50.554 MyCalculator[10184:70311] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/E3A22DFC-D3C3-4E1E-8B5B-19A8A523A3EA/MyCalculator.app/www/index.html
+2016-01-18 15:20:16.119 MyCalculator[10458:73827] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/64CADF0C-8E9C-4A26-AE19-2903B55454A5/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:20:16.197 MyCalculator[10458:73827] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:20:16.197 MyCalculator[10458:73827] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:20:16.198 MyCalculator[10458:73827] Unlimited access to network resources
+2016-01-18 15:20:16.200 MyCalculator[10458:73827] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:20:16.302 MyCalculator[10458:73827] Resetting plugins due to page load.
+2016-01-18 15:20:16.342 MyCalculator[10458:73827] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/253CE0E4-EA6F-4BA9-8143-A5F32100520E/MyCalculator.app/www/index.html
+2016-01-18 15:23:56.136 MyCalculator[10724:76763] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/DB99E2E5-9D2C-435A-B6EE-7344AFB45370/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:23:56.232 MyCalculator[10724:76763] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:23:56.232 MyCalculator[10724:76763] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:23:56.233 MyCalculator[10724:76763] Unlimited access to network resources
+2016-01-18 15:23:56.235 MyCalculator[10724:76763] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:23:56.332 MyCalculator[10724:76763] Resetting plugins due to page load.
+2016-01-18 15:23:56.370 MyCalculator[10724:76763] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/10CCF747-CE0E-45CF-8BA6-A2DC21DD6D5D/MyCalculator.app/www/index.html
+2016-01-18 15:27:16.199 MyCalculator[10900:79138] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/7B26609F-B6EA-42A5-A0C7-862DDE0CEF3B/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:27:16.281 MyCalculator[10900:79138] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:27:16.281 MyCalculator[10900:79138] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:27:16.283 MyCalculator[10900:79138] Unlimited access to network resources
+2016-01-18 15:27:16.285 MyCalculator[10900:79138] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:27:16.381 MyCalculator[10900:79138] Resetting plugins due to page load.
+2016-01-18 15:27:16.420 MyCalculator[10900:79138] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/66F25785-3D32-4D13-8C48-0F45F28165B0/MyCalculator.app/www/index.html
+2016-01-18 15:27:47.843 MyCalculator[10977:79639] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/571D4135-2F82-4964-953D-2EEBDC48A338/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:27:47.925 MyCalculator[10977:79639] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:27:47.925 MyCalculator[10977:79639] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:27:47.926 MyCalculator[10977:79639] Unlimited access to network resources
+2016-01-18 15:27:47.928 MyCalculator[10977:79639] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:27:48.030 MyCalculator[10977:79639] Resetting plugins due to page load.
+2016-01-18 15:27:48.068 MyCalculator[10977:79639] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/6C5B6901-99CB-402B-9B45-76EEAA7D69A1/MyCalculator.app/www/index.html
+2016-01-18 15:28:09.698 MyCalculator[11019:80094] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/D3A920A2-602D-4E8D-952F-81924D5CDF2E/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:28:09.778 MyCalculator[11019:80094] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:28:09.779 MyCalculator[11019:80094] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:28:09.780 MyCalculator[11019:80094] Unlimited access to network resources
+2016-01-18 15:28:09.782 MyCalculator[11019:80094] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:28:09.877 MyCalculator[11019:80094] Resetting plugins due to page load.
+2016-01-18 15:28:09.916 MyCalculator[11019:80094] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/9ACCCDD6-53CC-4E3B-8D14-B705D4A9EC46/MyCalculator.app/www/index.html
+2016-01-18 15:28:18.324 MyCalculator[11054:80391] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/0950D5CD-0385-47F6-9ABB-CBB6C2764F6F/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:28:18.455 MyCalculator[11054:80391] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:28:18.455 MyCalculator[11054:80391] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:28:18.457 MyCalculator[11054:80391] Unlimited access to network resources
+2016-01-18 15:28:18.459 MyCalculator[11054:80391] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:28:18.556 MyCalculator[11054:80391] Resetting plugins due to page load.
+2016-01-18 15:28:18.594 MyCalculator[11054:80391] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/F8C1F69B-5B8E-4412-9BDA-F56C3D63DFB1/MyCalculator.app/www/index.html
+2016-01-18 15:28:30.592 MyCalculator[11127:80815] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/8725D1A1-63A3-4B39-A52F-D3DF528A3CFC/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:28:30.685 MyCalculator[11127:80815] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:28:30.685 MyCalculator[11127:80815] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:28:30.686 MyCalculator[11127:80815] Unlimited access to network resources
+2016-01-18 15:28:30.688 MyCalculator[11127:80815] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:28:30.788 MyCalculator[11127:80815] Resetting plugins due to page load.
+2016-01-18 15:28:30.826 MyCalculator[11127:80815] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/CD7F21F7-4EE3-4A50-B92C-81B802DFC165/MyCalculator.app/www/index.html
+2016-01-18 15:28:52.912 MyCalculator[11171:81216] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/3E34E674-3A0C-411F-A63A-EEC6E53113EB/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:28:53.010 MyCalculator[11171:81216] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:28:53.011 MyCalculator[11171:81216] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:28:53.012 MyCalculator[11171:81216] Unlimited access to network resources
+2016-01-18 15:28:53.014 MyCalculator[11171:81216] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:28:53.113 MyCalculator[11171:81216] Resetting plugins due to page load.
+2016-01-18 15:28:53.152 MyCalculator[11171:81216] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/D2535AF6-EF94-4F8A-941C-4FBDFEC6C3F1/MyCalculator.app/www/index.html
+2016-01-18 15:30:44.471 MyCalculator[11289:82444] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/CDAE5001-9B36-4509-ABB8-0D2B94441500/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:30:44.570 MyCalculator[11289:82444] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:30:44.570 MyCalculator[11289:82444] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:30:44.571 MyCalculator[11289:82444] Unlimited access to network resources
+2016-01-18 15:30:44.573 MyCalculator[11289:82444] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:30:44.671 MyCalculator[11289:82444] Resetting plugins due to page load.
+2016-01-18 15:30:44.709 MyCalculator[11289:82444] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/22F753AE-7A14-4C16-A682-FDAE96B75975/MyCalculator.app/www/index.html
+2016-01-18 15:31:20.593 MyCalculator[11324:83018] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/F606856D-0602-4CAF-9704-F90298F22EC9/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:31:20.675 MyCalculator[11324:83018] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:31:20.676 MyCalculator[11324:83018] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:31:20.677 MyCalculator[11324:83018] Unlimited access to network resources
+2016-01-18 15:31:20.679 MyCalculator[11324:83018] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:31:20.775 MyCalculator[11324:83018] Resetting plugins due to page load.
+2016-01-18 15:31:20.813 MyCalculator[11324:83018] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/EDFE974C-0E31-4A7A-B3AE-C59C440EB083/MyCalculator.app/www/index.html
+2016-01-18 15:31:56.268 MyCalculator[11401:83642] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/2AEA85BD-55D0-42F4-AB46-1B7B958084FD/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:31:56.348 MyCalculator[11401:83642] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:31:56.348 MyCalculator[11401:83642] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:31:56.349 MyCalculator[11401:83642] Unlimited access to network resources
+2016-01-18 15:31:56.351 MyCalculator[11401:83642] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:31:56.451 MyCalculator[11401:83642] Resetting plugins due to page load.
+2016-01-18 15:31:56.489 MyCalculator[11401:83642] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/7936E926-EC84-4692-BEFD-9FCAD15B56AF/MyCalculator.app/www/index.html
+2016-01-18 15:32:14.392 MyCalculator[11436:84011] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/45CF8916-42F3-48BB-ABD1-5B7482750B04/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:32:14.481 MyCalculator[11436:84011] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:32:14.481 MyCalculator[11436:84011] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:32:14.482 MyCalculator[11436:84011] Unlimited access to network resources
+2016-01-18 15:32:14.484 MyCalculator[11436:84011] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:32:14.580 MyCalculator[11436:84011] Resetting plugins due to page load.
+2016-01-18 15:32:14.619 MyCalculator[11436:84011] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/77A110F6-F2D7-4D36-97F7-8B0E423601E3/MyCalculator.app/www/index.html
+2016-01-18 15:32:47.267 MyCalculator[11512:84533] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/9D0AF3DE-6F91-4EE3-9C9E-A09ADCE9D4E4/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:32:47.337 MyCalculator[11512:84533] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:32:47.337 MyCalculator[11512:84533] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:32:47.338 MyCalculator[11512:84533] Unlimited access to network resources
+2016-01-18 15:32:47.340 MyCalculator[11512:84533] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:32:47.440 MyCalculator[11512:84533] Resetting plugins due to page load.
+2016-01-18 15:32:47.479 MyCalculator[11512:84533] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/A8AF9279-FB3C-4DB0-A6E0-386FB232DE5E/MyCalculator.app/www/index.html
+2016-01-18 15:33:35.941 MyCalculator[11601:85158] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/3DE8BC5D-6638-4378-8461-8897429550AA/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:33:36.024 MyCalculator[11601:85158] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:33:36.025 MyCalculator[11601:85158] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:33:36.026 MyCalculator[11601:85158] Unlimited access to network resources
+2016-01-18 15:33:36.028 MyCalculator[11601:85158] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:33:36.125 MyCalculator[11601:85158] Resetting plugins due to page load.
+2016-01-18 15:33:36.164 MyCalculator[11601:85158] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/03676DE1-A235-40D5-9BC8-16220B1887FD/MyCalculator.app/www/index.html
+2016-01-18 15:33:56.872 MyCalculator[11640:85613] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/121D9EC7-4007-4DBE-9BEE-FE32D808217A/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:33:56.959 MyCalculator[11640:85613] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:33:56.960 MyCalculator[11640:85613] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:33:56.961 MyCalculator[11640:85613] Unlimited access to network resources
+2016-01-18 15:33:56.963 MyCalculator[11640:85613] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:33:57.063 MyCalculator[11640:85613] Resetting plugins due to page load.
+2016-01-18 15:33:57.102 MyCalculator[11640:85613] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/2C556ADD-C5E3-4956-84DF-3662A3CD8067/MyCalculator.app/www/index.html
+2016-01-18 15:34:11.331 MyCalculator[11681:86015] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/E1E5912D-8F47-43F1-96BC-1F30870B1F54/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:34:11.414 MyCalculator[11681:86015] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:34:11.414 MyCalculator[11681:86015] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:34:11.415 MyCalculator[11681:86015] Unlimited access to network resources
+2016-01-18 15:34:11.417 MyCalculator[11681:86015] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:34:11.512 MyCalculator[11681:86015] Resetting plugins due to page load.
+2016-01-18 15:34:11.551 MyCalculator[11681:86015] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/A3517AD1-5F51-4657-B3BE-DA57295EF60E/MyCalculator.app/www/index.html
+2016-01-18 15:35:14.465 MyCalculator[11764:86825] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/9AE25CD7-438E-4ABA-AFCD-F64850684E6D/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:35:14.547 MyCalculator[11764:86825] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:35:14.547 MyCalculator[11764:86825] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:35:14.548 MyCalculator[11764:86825] Unlimited access to network resources
+2016-01-18 15:35:14.550 MyCalculator[11764:86825] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:35:14.646 MyCalculator[11764:86825] Resetting plugins due to page load.
+2016-01-18 15:35:14.685 MyCalculator[11764:86825] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/A89EE1B1-6282-4F88-8EB4-E0E21CBD4925/MyCalculator.app/www/index.html
+2016-01-18 15:35:41.102 MyCalculator[11839:87358] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/C5309EE6-56A4-494F-9043-DAB4A610F847/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:35:41.194 MyCalculator[11839:87358] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:35:41.194 MyCalculator[11839:87358] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:35:41.195 MyCalculator[11839:87358] Unlimited access to network resources
+2016-01-18 15:35:41.197 MyCalculator[11839:87358] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:35:41.298 MyCalculator[11839:87358] Resetting plugins due to page load.
+2016-01-18 15:35:41.337 MyCalculator[11839:87358] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/CEE699D8-DF88-47D1-95EA-A8D6281BFF5B/MyCalculator.app/www/index.html
+2016-01-18 15:35:57.616 MyCalculator[11873:87795] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/91D1E2DA-6638-4AFB-8957-589A70241B22/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:35:57.711 MyCalculator[11873:87795] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:35:57.712 MyCalculator[11873:87795] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:35:57.713 MyCalculator[11873:87795] Unlimited access to network resources
+2016-01-18 15:35:57.715 MyCalculator[11873:87795] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:35:57.815 MyCalculator[11873:87795] Resetting plugins due to page load.
+2016-01-18 15:35:57.853 MyCalculator[11873:87795] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/555C305B-5503-41FB-B9D5-22F9DEE19417/MyCalculator.app/www/index.html
+2016-01-18 15:36:22.086 MyCalculator[11909:88252] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/60D801E2-DB44-4988-96CB-A22016A80731/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:36:22.170 MyCalculator[11909:88252] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:36:22.170 MyCalculator[11909:88252] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:36:22.171 MyCalculator[11909:88252] Unlimited access to network resources
+2016-01-18 15:36:22.173 MyCalculator[11909:88252] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:36:22.271 MyCalculator[11909:88252] Resetting plugins due to page load.
+2016-01-18 15:36:22.310 MyCalculator[11909:88252] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/AD20C087-AFD1-435A-ACDF-9E84EF8BE228/MyCalculator.app/www/index.html
+2016-01-18 15:36:42.510 MyCalculator[11990:88735] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/8880EE33-706C-49DF-9407-7AB51AE26701/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:36:42.548 MyCalculator[11990:88735] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:36:42.548 MyCalculator[11990:88735] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:36:42.549 MyCalculator[11990:88735] Unlimited access to network resources
+2016-01-18 15:36:42.551 MyCalculator[11990:88735] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:36:42.640 MyCalculator[11990:88735] Resetting plugins due to page load.
+2016-01-18 15:36:42.677 MyCalculator[11990:88735] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/90FDCECB-6F24-4289-A6BA-FF6B61730190/MyCalculator.app/www/index.html
+2016-01-18 15:37:17.818 MyCalculator[12020:89176] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/2A58DC73-97BD-40FE-8643-8CAEA729C783/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:37:17.989 MyCalculator[12020:89176] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:37:17.990 MyCalculator[12020:89176] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:37:17.991 MyCalculator[12020:89176] Unlimited access to network resources
+2016-01-18 15:37:17.994 MyCalculator[12020:89176] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:37:18.122 MyCalculator[12020:89176] Resetting plugins due to page load.
+2016-01-18 15:37:18.164 MyCalculator[12020:89176] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/AC699019-D19B-4499-AF09-4594337F9445/MyCalculator.app/www/index.html
+2016-01-18 15:37:29.538 MyCalculator[12096:89572] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/F34527D0-A498-42B1-ACE4-65E0490A2653/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:37:29.625 MyCalculator[12096:89572] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:37:29.625 MyCalculator[12096:89572] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:37:29.626 MyCalculator[12096:89572] Unlimited access to network resources
+2016-01-18 15:37:29.628 MyCalculator[12096:89572] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:37:29.730 MyCalculator[12096:89572] Resetting plugins due to page load.
+2016-01-18 15:37:29.768 MyCalculator[12096:89572] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/5F7A23C6-24BC-4D43-9406-0CF0D844D8D0/MyCalculator.app/www/index.html
+2016-01-18 15:37:48.552 MyCalculator[12139:89992] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/749ED980-FC03-4EE0-AEC6-E7E179D21C55/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:37:48.648 MyCalculator[12139:89992] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:37:48.648 MyCalculator[12139:89992] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:37:48.649 MyCalculator[12139:89992] Unlimited access to network resources
+2016-01-18 15:37:48.651 MyCalculator[12139:89992] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:37:48.752 MyCalculator[12139:89992] Resetting plugins due to page load.
+2016-01-18 15:37:48.791 MyCalculator[12139:89992] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/96D8C950-7DCD-4EC4-B18E-63F404EB0AD9/MyCalculator.app/www/index.html
+2016-01-18 15:38:00.317 MyCalculator[12174:90310] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/92CA9713-A54C-488C-AEA0-DB78B63D99C1/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:38:00.483 MyCalculator[12174:90310] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:38:00.484 MyCalculator[12174:90310] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:38:00.485 MyCalculator[12174:90310] Unlimited access to network resources
+2016-01-18 15:38:00.487 MyCalculator[12174:90310] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:38:00.605 MyCalculator[12174:90310] Resetting plugins due to page load.
+2016-01-18 15:38:00.645 MyCalculator[12174:90310] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/F9C87A2C-F7A0-4A37-AECF-22652644BC75/MyCalculator.app/www/index.html
+2016-01-18 15:39:27.270 MyCalculator[12296:91129] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/8CC910FA-8602-4DFB-903A-1249F432ACD5/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:39:27.350 MyCalculator[12296:91129] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:39:27.351 MyCalculator[12296:91129] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:39:27.352 MyCalculator[12296:91129] Unlimited access to network resources
+2016-01-18 15:39:27.354 MyCalculator[12296:91129] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:39:27.450 MyCalculator[12296:91129] Resetting plugins due to page load.
+2016-01-18 15:39:27.489 MyCalculator[12296:91129] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/20E028A1-9839-47E7-9075-EB8AE7C27C9A/MyCalculator.app/www/index.html
+2016-01-18 15:40:01.035 MyCalculator[12348:91677] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/7476ADFE-AA89-41BD-B8A4-38B0D621380E/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:40:01.120 MyCalculator[12348:91677] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:40:01.120 MyCalculator[12348:91677] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:40:01.121 MyCalculator[12348:91677] Unlimited access to network resources
+2016-01-18 15:40:01.123 MyCalculator[12348:91677] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:40:01.218 MyCalculator[12348:91677] Resetting plugins due to page load.
+2016-01-18 15:40:01.257 MyCalculator[12348:91677] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/7E036313-DA3F-4F7F-A878-3DC1F630CBC3/MyCalculator.app/www/index.html
+2016-01-18 15:42:28.451 MyCalculator[12497:92798] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/FDEDA8BA-0A33-46EF-86DE-5525BC1EAA84/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:42:28.535 MyCalculator[12497:92798] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:42:28.535 MyCalculator[12497:92798] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:42:28.536 MyCalculator[12497:92798] Unlimited access to network resources
+2016-01-18 15:42:28.538 MyCalculator[12497:92798] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:42:28.634 MyCalculator[12497:92798] Resetting plugins due to page load.
+2016-01-18 15:42:28.672 MyCalculator[12497:92798] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/8D999DAE-79EA-4F48-A542-69694AFECBA8/MyCalculator.app/www/index.html
+2016-01-18 15:46:47.738 MyCalculator[12706:94663] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/28857ED6-721C-48E5-A123-7B86819EB98E/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:46:47.821 MyCalculator[12706:94663] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:46:47.821 MyCalculator[12706:94663] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:46:47.822 MyCalculator[12706:94663] Unlimited access to network resources
+2016-01-18 15:46:47.824 MyCalculator[12706:94663] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:46:47.921 MyCalculator[12706:94663] Resetting plugins due to page load.
+2016-01-18 15:46:47.960 MyCalculator[12706:94663] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/D93CDA30-DE6D-409E-900E-1548E3780871/MyCalculator.app/www/index.html
+2016-01-18 15:47:50.660 MyCalculator[12803:95791] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/294AF683-74CC-4B24-8B8F-BFB48F016D50/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:47:50.736 MyCalculator[12803:95791] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:47:50.737 MyCalculator[12803:95791] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:47:50.737 MyCalculator[12803:95791] Unlimited access to network resources
+2016-01-18 15:47:50.739 MyCalculator[12803:95791] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:47:50.836 MyCalculator[12803:95791] Resetting plugins due to page load.
+2016-01-18 15:47:50.875 MyCalculator[12803:95791] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/AD6BDB5C-C7E3-4604-8B83-EDF52D77561D/MyCalculator.app/www/index.html
+2016-01-18 15:49:15.600 MyCalculator[12923:96681] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/973DFB8B-08AE-416A-8DBB-C8D2F17FB60F/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:49:15.683 MyCalculator[12923:96681] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:49:15.684 MyCalculator[12923:96681] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:49:15.685 MyCalculator[12923:96681] Unlimited access to network resources
+2016-01-18 15:49:15.686 MyCalculator[12923:96681] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:49:15.787 MyCalculator[12923:96681] Resetting plugins due to page load.
+2016-01-18 15:49:15.826 MyCalculator[12923:96681] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/ADC2E11D-4437-4B1E-88F6-6101051924A7/MyCalculator.app/www/index.html
+2016-01-18 15:50:17.765 MyCalculator[13046:97378] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/B924576A-630D-4648-82C6-81A9C0A94842/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:50:17.849 MyCalculator[13046:97378] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:50:17.850 MyCalculator[13046:97378] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:50:17.851 MyCalculator[13046:97378] Unlimited access to network resources
+2016-01-18 15:50:17.852 MyCalculator[13046:97378] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:50:17.950 MyCalculator[13046:97378] Resetting plugins due to page load.
+2016-01-18 15:50:17.990 MyCalculator[13046:97378] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/065D0DB8-AD7D-4D5B-80F4-6A0C0172DF34/MyCalculator.app/www/index.html
+2016-01-18 15:50:30.536 MyCalculator[13118:97747] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/B34D3129-9245-4A54-8C91-7F4247D86211/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:50:30.624 MyCalculator[13118:97747] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:50:30.624 MyCalculator[13118:97747] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:50:30.625 MyCalculator[13118:97747] Unlimited access to network resources
+2016-01-18 15:50:30.627 MyCalculator[13118:97747] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:50:30.728 MyCalculator[13118:97747] Resetting plugins due to page load.
+2016-01-18 15:50:30.768 MyCalculator[13118:97747] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/83371305-1733-4D49-AB7B-18953C42FFB6/MyCalculator.app/www/index.html
+2016-01-18 15:52:03.931 MyCalculator[13205:98999] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Data/Application/CAD537B3-0AA0-4D5A-B5DE-E290D48191E8/Library/Cookies/Cookies.binarycookies
+2016-01-18 15:52:04.014 MyCalculator[13205:98999] Apache Cordova native platform version 3.9.2 is starting.
+2016-01-18 15:52:04.014 MyCalculator[13205:98999] Multi-tasking -> Device: YES, App: YES
+2016-01-18 15:52:04.015 MyCalculator[13205:98999] Unlimited access to network resources
+2016-01-18 15:52:04.017 MyCalculator[13205:98999] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-01-18 15:52:04.120 MyCalculator[13205:98999] Resetting plugins due to page load.
+2016-01-18 15:52:04.167 MyCalculator[13205:98999] Finished load of: file:///Users/st081422/Library/Developer/CoreSimulator/Devices/CD11CB82-C4BE-4BF5-8156-D80F49F71DBD/data/Containers/Bundle/Application/74E1EDB9-4C8C-4CAA-BC42-13AD4C1ED6B3/MyCalculator.app/www/index.html

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="msapplication-tap-highlight" content="no">
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+    <link rel="stylesheet" type="text/css" href="css/index.css">
+    <link rel="stylesheet" type="text/css" href="lib/pure-min.css">
+    <title>電卓</title>
+</head>
+<body>
+    <div class="container">
+        <section class="display">
+
+        </section>
+        <section class="number-buttons">
+            <table class="numbers" width="100%" height="100%">
+                <tbody>
+                    <tr>
+                        <td class="symbol"><p>AC</p></td>
+                        <td class="symbol"><p>+/-</p></td>
+                        <td class="symbol"><p>%</p></td>
+                        <td class="symbol"><p>÷</p></td>
+                    </tr>
+                    <tr>
+                        <td class="number"><p>7</p></td>
+                        <td class="number"><p>8</p></td>
+                        <td class="number"><p>9</p></td>
+                        <td class="symbol"><p>×</p></td>
+                    </tr>
+                    <tr>
+                        <td class="number"><p>4</p></td>
+                        <td class="number"><p>5</p></td>
+                        <td class="number"><p>6</p></td>
+                        <td class="symbol"><p>-</p></td>
+                    </tr>
+                    <tr>
+                        <td class="number"><p>1</p></td>
+                        <td class="number"><p>2</p></td>
+                        <td class="number"><p>3</p></td>
+                        <td class="symbol"><p>+</p></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" class="number"><p>0</p></td>
+                        <td class="symbol"><p>.</p></td>
+                        <td class="symbol"><p>=</p></td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+    </div>
+    <script type="text/javascript" src="cordova.js"></script>
+    <script type="text/javascript" src="lib/jquery-2.2.0.min.js"></script>
+    <script type="text/javascript" src="js/index.js"></script>
+</body>
+</html>
